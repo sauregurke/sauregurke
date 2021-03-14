@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sauregurke
+- 👀 I’m interested in ... computer
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ... java, asl, a few others
+- 📫 How to reach me ... nchris460@gmail.com
