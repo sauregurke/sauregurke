@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @sauregurke
 - 👀 I’m interested in ... computer
-- 🌱 I’m currently learning ... java, asl, a few others
-- 💞️ I’m looking to collaborate on ... some asl patches; more projects coming eventually
-- 📫 How to reach me ... nchris460@gmail.com
+
